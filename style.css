@@ -15,6 +15,13 @@ header .color {
     text-align:center;
     color:#343434;
 }
+nav {
+    text-align:center;
+}
+nav a {
+    padding:0 10px;
+    font-weight:600;
+}
 section{
     padding-top:20px;
 }
