@@ -1,3 +1,29 @@
-.color {
-    color:#232323;
+html,body {width:100%; height:100%; margin:0; padding:0; color:#343434; font:300 16px/28px 'Lato', arial, sans-serif; letter-spacing:.03em; background:#f1f1f1;}
+header,nav,section,div,footer {width:auto; height:auto; margin:0 auto; padding:0; display:block;}
+header,nav,section,div {position:relative;}
+ul,ol {margin:0; padding:20px 30px;}
+img {max-width:100%; height:auto; display:block; width:400px;}
+a {color:#343434; text-decoration:none; -webkit-transition:all .3s ease; -moz-transition:all .3s ease; transition:all .3s ease;}
+a:hover {color:#d4af37;}
+p {margin:20px 0; padding:0;}
+h1 {margin:0; padding:0; color:#343434; font:600 32px 'Lato'; text-transform:uppercase;}
+h2 {margin:0; padding:0; color:#343434; font:600 28px 'Lato'; text-transform:uppercase;}
+h3 {margin:0; padding:0; color:#343434; font:600 24px 'Lato'; text-transform:uppercase;}
+h4 {margin:0; padding:0; color:#343434; font:600 20px 'Lato';}
+
+header .color {
+    color:#343434;
+}
+section.experience {
+    background:#c1c1c1
+}
+section.experience .inner {
+    text-align:center;
+    max-width:80%;
+}
+section.experience .inner .experience {
+    float:left; max-width:50%;
+}
+section.experience .inner .reasons {
+    float:right; max-width:50%;
 }
