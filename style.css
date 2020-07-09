@@ -32,3 +32,6 @@ section.experience .inner .experience {
 section.experience .inner .reasons {
     float:right; max-width:50%;
 }
+ol ul {
+    padding: 0!important;
+}
