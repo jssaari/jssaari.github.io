@@ -57,3 +57,7 @@ section.about .inner .about {
 section.about .inner .hobbies {
     float:right; max-width:50%;
 }
+section.gallery .inner {
+    width: 45%;
+    text-align: center;
+}
