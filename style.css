@@ -12,13 +12,13 @@ h3 {margin:0; padding:0; color:#343434; font:600 24px 'Lato'; text-transform:upp
 h4 {margin:0; padding:0; color:#343434; font:600 20px 'Lato';}
 
 body.about {
-    color:#fffdc0;
+    background-color:#fffdc0;
 }
 body.experience {
-    color:#ffcdc0;
+    background-color:#ffcdc0;
 }
 header {
-    color:#f1f1f1;
+    background-color:#f1f1f1;
 }
 ol ul {
     padding: 0 30px!important;
