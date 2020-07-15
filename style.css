@@ -55,6 +55,9 @@ section.about {
     padding-top: 20px;
     margin: 20px 10% 0;
 }
+section.about p.text:nth-of-type(odd) {
+    background-color:#ffcdc0;
+}
 section.about .name-font {
     font-family:cursive;
     color:#12c7df;
