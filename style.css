@@ -11,6 +11,15 @@ h2 {margin:0; padding:0; color:#343434; font:600 28px 'Lato'; text-transform:upp
 h3 {margin:0; padding:0; color:#343434; font:600 24px 'Lato'; text-transform:uppercase;}
 h4 {margin:0; padding:0; color:#343434; font:600 20px 'Lato';}
 
+body.about {
+    color:#fffdc0;
+}
+body.experience {
+    color:#ffcdc0;
+}
+main {
+    color:#f1f1f1;
+}
 ol ul {
     padding: 0 30px!important;
 }
@@ -56,6 +65,12 @@ section.about .inner .about {
 }
 section.about .inner .hobbies {
     float:right; max-width:50%;
+}
+section.gallery {
+    background-color:#232323;
+}
+section.gallery p {
+    color:#fff;
 }
 section.gallery .inner {
     width: 45%;
