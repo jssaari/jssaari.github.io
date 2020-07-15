@@ -51,10 +51,12 @@ section.experience .inner .experience {
 section.experience .inner .reasons {
     float:right; max-width:50%;
 }
-
 section.about {
     padding-top: 20px;
     margin: 20px 10% 0;
+}
+section.about .name-font {
+    font-family:Arial, Helvetica, sans-serif;
 }
 section.about .inner {
     text-align:center;
