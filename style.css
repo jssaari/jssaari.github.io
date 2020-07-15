@@ -60,7 +60,7 @@ section.about {
     margin: 20px 10% 0;
 }
 section.about p.text:nth-of-type(odd) {
-    background-color:#ffcdc0;
+    background-color:#80886b;
 }
 section.about .name-font {
     font-family:cursive;
